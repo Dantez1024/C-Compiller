@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1651833637 source:d:\leinad compiler\leinad programming language\main.c
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	<stdlib.h>
+	<ctype.h>
+
